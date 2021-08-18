@@ -1,0 +1,52 @@
+/*Limpar formatações´padrão*/
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-size: 1em;
+	font-family: "Trebuchet MS", Helvetica,sans-serif;
+	background: #e6e6e6;
+}
+
+
+/****Formatação do menu****/
+#area-cabecalho{
+	padding: 15px;
+	text-align: center;
+	background: #0396F6;
+}
+
+#area-logo, #area-menu{
+	padding: 10px;
+}
+
+a{
+	text-decoration: none;
+}
+
+a:link, a:visited {
+	color: #FFF;
+	padding: 8px 15px;
+}
+
+a:hover{
+	background: #FFF;
+	color: #0396F6;
+}
+/****LAYOUT****/
+
+
+
+
+/****LAYOUT****/
+h1{
+	color: #034A78;
+	font-size: 2.5em;
+}
+
+.branco{
+	color: #FFF;
+}
